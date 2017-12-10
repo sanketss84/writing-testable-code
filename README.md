@@ -18,7 +18,7 @@ Uses
 8. Castle.Core 4.0.0
 
 
-NUnit Vs MS Test - helpful links
-https://blogs.msdn.microsoft.com/nnaderi/2007/02/01/comparing-the-mstest-and-nunit-frameworks/
-http://osherove.com/blog/2010/3/5/nunit-vs-mstest-nunit-wins-for-unit-testing.html
+NUnit Vs MS Test
+[Link 1](https://blogs.msdn.microsoft.com/nnaderi/2007/02/01/comparing-the-mstest-and-nunit-frameworks/)
+[Link 2](http://osherove.com/blog/2010/3/5/nunit-vs-mstest-nunit-wins-for-unit-testing.html)
 
